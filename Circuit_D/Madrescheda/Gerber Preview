@@ -1,0 +1,8 @@
+(define-layer! 6 (cons 'filename "madrescheda.GBL")(cons 'color #(8995 8995 36237)))
+(define-layer! 5 (cons 'filename "madrescheda.GTL")(cons 'color #(36237 8995 8995)))
+(define-layer! 4 (cons 'filename "madrescheda.GTO")(cons 'color #(49318 49318 49318)))
+(define-layer! 3 (cons 'filename "madrescheda.GKO")(cons 'color #(65535 65535 65535)))
+(define-layer! 2 (cons 'filename "madrescheda.GBS")(cons 'color #(8995 36237 8995)))
+(define-layer! 1 (cons 'filename "madrescheda.GTS")(cons 'color #(38807 46774 38807)))
+(define-layer! 0 (cons 'filename "madrescheda.DRI")(cons 'color #(29440 29440 56832)))
+(define-layer! -1 (cons 'filename "/home/riky/UAV/trunk/Circuit/Schema_UAV")(cons 'color #(0 0 0)))
